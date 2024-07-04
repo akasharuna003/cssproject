@@ -374,3 +374,7 @@
     </script>
 </body>
 </html>
+
+![image](file:///C:/Users/Akash%20R/Downloads/css%20project/css%20project.html)
+![image](https://github.com/akasharuna003/cssproject/blob/main/Screenshot%202024-07-04%20105128.png)
+![image](https://github.com/akasharuna003/cssproject/blob/main/Screenshot%202024-07-04%20105036.png)
